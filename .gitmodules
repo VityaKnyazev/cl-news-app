@@ -1,0 +1,9 @@
+[submodule "clevertec-final-news"]
+	path = clevertec-final-news
+	url = https://github.com/VityaKnyazev/clevertec-final-news
+[submodule "clevertec-final-config"]
+	path = clevertec-final-config
+	url = https://github.com/VityaKnyazev/clevertec-final-config
+[submodule "clevertec-final-users"]
+	path = clevertec-final-users
+	url = https://github.com/VityaKnyazev/clevertec-final-users
