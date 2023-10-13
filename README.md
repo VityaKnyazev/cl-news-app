@@ -17,15 +17,15 @@
 
 <ol>
 
-<li>Билдим cloud config server приложение: cd /clevertec-final-config и .\gradlew clean build 
+<li>Билдим cloud config server приложение: cd /cl-config и .\gradlew clean build 
 Запускаем cloud config server в docker: docker-compose up -d
 </li>
 
-<li>Билдим users microservice app: cd ../clevertec-final-users и  .\gradlew clean build 
+<li>Билдим users microservice app: cd ../cl-users и  .\gradlew clean build 
 Запускаем users microservice app в docker: docker-compose up -d
 </li>
 
-<li>Билдим главное новостное приложение news app: .\gradlew clean build 
+<li>Билдим главное новостное приложение news app: cd ../cl-news и .\gradlew clean build 
 Запускаем news app в docker: docker-compose up -d
 </li>
 
